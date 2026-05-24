@@ -1,8 +1,8 @@
 # 🍎 Apple Retail Sales Analytics using PostgreSQL (1M+ Records)
 
-![Apple Retail store image](https://github.com/TechByJay/apple-retail-sales-analytics-using-postgresql-with-1m-records/blob/main/apple_retail_store_img.png)
+![Apple Retail store image](https://github.com/TechByJay/apple-retail-sales-analytics-using-postgresql-with-1m-records/blob/master/apple_retail_store_img.png)
 
-![Entity relationship diagrams](https://github.com/TechByJay/apple-retail-sales-analytics-using-postgresql-with-1m-records/blob/main/Entity_relationship_diagrams.png)
+![Entity relationship diagrams](https://github.com/TechByJay/apple-retail-sales-analytics-using-postgresql-with-1m-records/blob/master/Entity_relationship_diagrams.png)
 
 
 ## 1. Project Title
@@ -662,7 +662,7 @@ ORDER BY 1, 3 DESC
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/TechByJay/apple-retail-sales-analytics-using-postgresql-with-1m-records
+https://github.com/TechByJay/apple-retail-sales-analytics-using-postgresql-with-1m-records/tree/master
 ```
 
 ### Step 2: Open PostgreSQL / pgAdmin
